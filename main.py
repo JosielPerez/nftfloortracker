@@ -1,6 +1,7 @@
 import discord
 import requests
 
+#this makes an request to OS API and returns data
 
 
 headers = {"Accept": "application/json"}
